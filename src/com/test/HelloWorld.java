@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("you");
         System.out.println("from sunhao1256");
         System.out.println("认真的？");
+        System.out.println("刚加了个ssh");
     }
 }
